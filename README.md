@@ -37,7 +37,7 @@ Always curious, always learning — let’s build something amazing together!
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavaramasarma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaramasarma&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargava-sarma&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava-sarma&layout=compact&theme=radical)
 
 ---
