@@ -102,11 +102,11 @@ State Champion, Zonal Runner-up and National Finalist at the **RBI90 National Qu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bhargava-sarma&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bhargava-sarma&show_icons=true&hide_border=true&hide_title=true" alt="GitHub stats" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhargava-sarma/bhargava-sarma/main/assets/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/bhargava-sarma/bhargava-sarma/main/assets/stats-light.svg" alt="GitHub statistics" width="440" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava-sarma&layout=compact&hide_border=true&theme=github_dark&hide_title=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargava-sarma&layout=compact&hide_border=true&hide_title=true" alt="Top languages" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhargava-sarma/bhargava-sarma/main/assets/languages-dark.svg" />
+    <img src="https://raw.githubusercontent.com/bhargava-sarma/bhargava-sarma/main/assets/languages-light.svg" alt="Top languages" width="440" />
   </picture>
 </div>
